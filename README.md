@@ -6,6 +6,8 @@ Very basic client and server that enables forwarding USB keyboard events from an
 
 The client runs on the machine to which the keyboard is connected and the server runs on the VirtualBox host (not guest).
 
+The client captures all keyboard input in exclusive access mode. While the keyboard is being captured, the Scroll Lock LED is on.
+
 The quality of this is project is: I-needed-it-but-didn't-really-have-time-to-write-it.
 
 
