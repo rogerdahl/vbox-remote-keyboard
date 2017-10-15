@@ -1,6 +1,6 @@
 ## VirtualBox Remote Keyboard
 
-<img src="./diagram.svg">
+<img align="right" width="60%" src="./diagram.png">
 
 Very basic client and server that enables forwarding USB keyboard events from any Linux box on the network to a VirtualBox guest.
 
